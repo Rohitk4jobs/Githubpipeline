@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Deafult'
+  name: 'Default'
   vmImage: 'AgentVM'
 
 variables:
