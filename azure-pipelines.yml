@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool:'
+pool:
+  name: 'Deafult'
   vmImage: 'AgentVM'
 
 variables:
